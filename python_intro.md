@@ -11,8 +11,9 @@ Es va començar a desenvolupar a finals dels anys 80 del segle passat i ara va p
 Python té un intèrpret de comandes que es pot executar directament des de terminal amb la instrucció:
 
 ```
-p
+python3
+```
 
 ## IDE
 
-Els Entonrs Integrats de Desenvolupament 
+Els Entorns Integrats de Desenvolupament són programes que 
