@@ -8,6 +8,8 @@ Els ordinadors actuals són màquines electròniques alimentades per electricita
 
 Per aquest motiu diem que els ordinadors entenen el llenguatge binari. En concret es fan servir unes seqüències de dígits anomenades llenguatge màquina.
 
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/3d325183-5bb4-4d36-9dfe-9f28c4ceddd9)
+
 ## Llenguatge Assembler
 
 Cada instrucció de la CPU té un número corresponent per identificar-la, que és el que entén el processador.
@@ -32,6 +34,8 @@ Els programes escrits en codi assemblador es poden passar a codi màquina amb l�
 
 ## Els llenguatges compilats
 
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/ec0223ed-d0c9-46b9-9ab9-9f0d57dfac3b)
+
 Als llenguatges compilats s’utilitzen **llenguatges d’alt nivell** que la màquina no pot processar.
 
 Per a que la màquina ho entengui el codi font d’alt nivell ha de passar a codi màquina, aquest procés el fa un programa anomenat **compilador**.
@@ -42,12 +46,35 @@ El compilador no és més que un traductor entre el llenguatge d’alt nivell i 
 
 Si hi ha errors en el codi font el compilador donarà errors de compilació i no es generarà el codi màquina executable.
 
+## Els llenguatges basats en màquines virtuals
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/108acdcf-c573-4b0f-8032-736d917002da)
+
+Hi ha tota una família de llenguatges requereixen de l’ús de la figura de la màquina virtual. Aquesta màquina virtual té un codi màquina propi, diferent de qualsevol arquitectures real (p.ex. x64 ).
+
+El procés en aquests llenguatges és el següent:
+
+1. El llenguatge original es compila, però no a codi màquina real sinó a codi màquina de la màquina virtual.  Aquests arxius compilats contenen el que es coneix com a Byte-Code o Intermediate Language. 
+
+2. Per executar el bytecode o IL, fa falta un altre programa (el que fa el paper de màquina virtual), que s’encarrega d’executar-lo. El procés que fa es habitualment el que es coneix com Just-in-time compilation (s’abreuja JIT), que és un sistema que està a mig camí de la compilació i la interpretació de codi. La idea és que el bytecode es va traduint a mesura que fa falta, però hi ha una cache per no tornar a traduir codi que s’hagués traduït anteriorment.
+
+Un dels grans avantatges del model de màquina virtual, és que permet una total portabilitat del codi, Sempre i quan algú ens doni una implementació de la màquina virtual en la plataforma que necessitem, el codi font de la nostra aplicació sempre serà el mateix.
+
+## Els llenguatges interpretats
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/5acf72ff-c950-4930-9081-bf23c8ec4d5d)
+
+En el cas dels llenguatges interpretats, també es parteix d’un llenguatge d’alt nivell, però en aquest cas no es tradueix tot de cop i s’executa directament el codi màquina sinó que l’interpret (un altre programa) s’encarrega d’anar executant indirectament el codi instrucció per instrucció.
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
-Activitat: 
+Activitat per grups de 3 persones: 
 
-1. Busca 3 exemples de llenguatges compilats.
-2. Busca el codi font d'un programa "Hello Word" en un dels llenguatges compilats que has trobat.
+Feu una presentació amb la següent informació.
+
+0. Expliqueu breument cada tipus de llenguatge (compilat, interpretat i de MV). 
+1. Poseu de 3 a 5 exemples de llenguatges de cada tipus.
+2. Cada membre del grup busca el codi font d'un programa "Hello Word" en un dels llenguatges que heu trobat, un per cada tipus.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
