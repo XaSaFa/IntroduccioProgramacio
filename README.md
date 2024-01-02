@@ -1,7 +1,7 @@
 # Introducció a la programació
 
-[Curriculum](curriculum.md)
-[Llenguatges de programació](llenguatges.md)
+- [Curriculum](curriculum.md)
+- [Llenguatges de programació](llenguatges.md)
 
 ## Python
 
