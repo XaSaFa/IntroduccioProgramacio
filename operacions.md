@@ -72,6 +72,16 @@ Entrega captura de l'enunciat seguit del programa creat i el resultat.
 
 1. Crea una variable per a cada operant i una variable per al resultat i calcula les següents operacions.
 
+**Exemple:**
+```
+op1 = 388676
+op2 = 738423
+op3 = 334734
+resultat = op1 + op2 + op3
+print(resultat)
+```
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/d1f5993b-eb1a-42ce-b2ba-a4af3ffb32e9)
+
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/2724ed28-470f-4cf0-93aa-4e1afed72d3c)
 
 2. Crea les variables necessàries i una variable per al resultat i calcula els següents perímetres i àrees.
