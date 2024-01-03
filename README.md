@@ -6,3 +6,5 @@
 ## Python
 
 - [Introducció a Python](python_intro.md)
+- [Variables](variables.md)
+- [Operadors matemàtics](operacions.md)
