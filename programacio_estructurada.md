@@ -22,7 +22,7 @@ Demostra que tot programa es pot escriure utilitzant únicament les tres estruct
 - Selecció: La instrucció condicional amb doble alternativa, de la forma “si condició, llavors Sentència A, sinó Sentència B”.
 - Iteració: El bucle condicional “mentre condició, fes Sentència A”, que executa les instruccions repetidament mentre la condició es compleixi. 
 
-![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/ccc57bf6-f70b-4f2e-b3f6-f2755feff8fb)
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/3aa4fb04-a0cf-4ce8-9a8a-48665e7907b2)
 
 ## Disseny descendent
 
