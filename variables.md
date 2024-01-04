@@ -43,3 +43,28 @@ A Python no existeix el tipatge de variables, això vol dir que no s'ha d'indica
 
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/7714a43d-761f-42d3-b446-cbf302a2610a)
 
+## Noms de variables a Python
+
+Els noms de les variables han de ser **descriptius** dels valors que han de guardar, per exemple.
+
+- altura = 175
+- pes = 80
+
+Si necessitem utilitzar més d'una paraula com a nom de variable utilitzem **SNAKE_CASE**, que vol dir que separem les paraules per un guió baix, per exemple.
+
+- nom_de_gos = 'Sultán'
+- edat_de_client = 35
+
+Tots els noms de variables han de començar per una lletra o un guió baix i estaran compostos per **lletres minúscules** i/o **números**.
+
+Hi ha una sèrie de paraules reservades per Python que no es poden fer servir com a noms de variables per evitar errors, són les següents:
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/25369976-5370-4292-84fa-86ca86dca462)
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitats:**
+
+1. Crea 10 noms de variables per definir valors d'una persona i assigna'ls un valor.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
