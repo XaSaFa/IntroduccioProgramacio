@@ -5,7 +5,7 @@
 
 ## Python
 
-![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/1494dbbb-4508-4037-afcd-24e44047ec5f)
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/4371408d-1887-4d0a-a6a4-509b6a1cc4b2)
 
 - [Introducció a Python](python_intro.md)
 - [Variables](variables.md)
