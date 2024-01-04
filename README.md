@@ -9,3 +9,5 @@
 - [Variables](variables.md)
 - [Operadors matemàtics](operacions.md)
 - [Operadors d'assignació](op_assignacio.md)
+- [Comparacions](op_comparadors.md)
+- [Operadors lògics](op_logics.md)
