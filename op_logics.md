@@ -6,11 +6,16 @@ La paraula lògica prové del grec "λογική - λογικός" (logikê-logi
 
 Els operadors lògics són un dels principis fonamentals de la informàtica tant a nivell de hardware com de software.
 
-![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/31027615-9cbb-4427-a3ed-754bdb2c5fc0)
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/53e287ca-549b-4ab6-a38e-f5d4b8283876)
 
-A nivell de software els que més s'utilitxen són els operadors i, o i no, en anglès and, or i not.
+A nivell de software els que més s'utilitxen són els operadors **i**, **o** i **no**, en anglès **and**, **or** i **not**.
 
 Els operadors lògics retornen un valor booleà, o el que és el mateix: veritat o mentida (true o false).
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/c9bb4357-a11d-4d14-996c-60675496ab2f)
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/31027615-9cbb-4427-a3ed-754bdb2c5fc0)
+
 
 ## and
 
