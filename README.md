@@ -17,3 +17,7 @@
 - [Operadors lògics](op_logics.md)
 - [Programació estructurada](programacio_estructurada.md)
   - [Seqüència](sequencia.md)
+
+## Activitats:
+
+1.- Feu un programa que pregunti les dades necessàries a l'usuari i calculi el perímetre i l'àrea d'un triangle.
