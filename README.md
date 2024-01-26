@@ -9,6 +9,7 @@
 
 - [Introducció a Python](python_intro.md)
 - [Variables](variables.md)
+  - [Canvi de tipus de variables (casting)](https://www.w3schools.com/python/python_casting.asp) 
 - [Constants](constants.md)
 - [Operadors matemàtics](operacions.md)
 - [Operadors d'assignació](op_assignacio.md)
