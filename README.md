@@ -16,7 +16,7 @@
 - [Comparacions](op_comparadors.md)
 - [Operadors lògics](op_logics.md)
 - [Programació estructurada](programacio_estructurada.md)
-  - [Seqüència](sequencia.md)
+- [Selecció](seleccio.md)
 
 ## Activitats:
 
