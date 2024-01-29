@@ -9,3 +9,7 @@
 5. Programa que demana una temperatura en graus Celsius a l'usuari i retorna la temperatura en graus Fahrenheit.
 
 ## Bateria 2
+
+6. Programa que pregunta el nom de l'usuari i només dona la benvinguda si l'usuari es diu "Amilcar" o "Sila".
+7. Programa que pregunta un número a l'usuari i diu si és major o menor que 100.
+8. Programa que pregunta un número a l'usuari i diu si és senar o parell.
