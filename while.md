@@ -29,3 +29,32 @@ while a <10:
 print("s'ha acabat el bucle")
 ```
 
+### continue
+
+la comanda continue trenca la iteració del bucle i torna a iniciar el bucle a la següent iteració.
+
+```
+a = 0
+while a <10:
+  a += 1
+  if a == 5:
+    continue
+  print (a)
+```
+
+Aquest codi fa que la iteració en la que a val 5 salti del continue al següent while.
+
+### break
+
+La comanda break trenca definitivament un bucle:
+
+```
+a = 0
+while a <10:
+  a += 1
+  if a == 5:
+    break
+  print (a)
+```
+
+Aquest programa s'acaba quan a val 5.
