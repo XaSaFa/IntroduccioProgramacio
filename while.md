@@ -58,3 +58,10 @@ while a <10:
 ```
 
 Aquest programa s'acaba quan a val 5.
+
+
+## Activitat
+
+Feu un programa que pregunti un número a l'usuari i retorni el valor factorial d'aquell número.
+
+Per exemple, el factorial de 5 és: 5*4*3*2*1
