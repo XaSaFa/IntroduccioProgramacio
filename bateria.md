@@ -15,3 +15,11 @@
 8. Programa que pregunta un número a l'usuari i diu si és senar o parell.
 9. Programa que pregunta la nota a l'usuari i segons la nota diu el resultat obtingut: 1 a 4 - Insuficient, 5 - Suficient, 6 - Bé, 7 a 8 - Notable, 9 a 10 - Excel·lent.
 10. Fes un programa que pregunti quants anys portes treballant de programador i et digui que ets junior si portes menys de 5 anys i senior si portes més de 5.
+
+## Bateria 3
+
+11. Fes un programa que demana un número a l'usuari i imprimeix la seva taula de multiplicar (del 1 al 10).
+12. Fes un programa que pregunti un número a l'usuari i retorni la suma de tots els números fins el que ha introduït l'usuari.
+13. Modifica el programa anterior per a que només sumi els números parells.
+14. Modifica el programa anterior per que sigui l'usuari si vol sumar els números parells o els senars.
+15. Fes un programa que imprimeixi per pantalla els números [primers](https://ca.wikipedia.org/wiki/Nombre_primer).
