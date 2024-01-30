@@ -11,12 +11,16 @@
 - [Variables](variables.md)
   - [Canvi de tipus de variables (casting)](https://www.w3schools.com/python/python_casting.asp) 
 - [Constants](constants.md)
-- [Operadors matemàtics](operacions.md)
-- [Operadors d'assignació](op_assignacio.md)
-- [Comparacions](op_comparadors.md)
-- [Operadors lògics](op_logics.md)
+- Operadors:
+  - [matemàtics](operacions.md)
+  - [d'assignació](op_assignacio.md)
+  - [Comparacions](op_comparadors.md)
+  - [Operadors lògics](op_logics.md)
 - [Programació estructurada](programacio_estructurada.md)
-- [Selecció - if, elif, else](seleccio.md)
+- Selecció:
+  - [if, elif, else](seleccio.md)
+- Bucles:
+  - [while](while.md)
 
 ## Activitats:
 
