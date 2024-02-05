@@ -44,7 +44,7 @@ for i in range(0,101,5):
 
 Com veieu afegim un tercer **paràmetre** a la funció range.
 
-## continue i else:
+## continue i break:
 
 Les instruccions continue i else funcionen exactament igual que als bucles while per als bucles for.
 
