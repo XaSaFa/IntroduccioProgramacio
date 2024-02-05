@@ -21,6 +21,7 @@
   - [if, elif, else](seleccio.md)
 - Bucles:
   - [while](while.md)
+  - [for](for.md)
 
 ## Activitats:
 
