@@ -64,5 +64,6 @@ for externa in range(1,4):
 **Activitat**
 
 1. Fes la funció factorial utilitzant un bucle for.
+2. Fes un programa que pregunti un número i et tregui la seva taula de multiplicar.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
