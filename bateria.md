@@ -25,3 +25,8 @@
 15. Fes un programa que imprimeixi per pantalla els números [primers](https://ca.wikipedia.org/wiki/Nombre_primer).
 
 ## Bateria 4 - for
+
+16. Fes un programa que pregunta un número i et retorna tots els números que són divisors del número (els que la seva divisió no té residu).
+17. Fes un programa que pregunti números a l'usuari i calculi la seva mitjana, el programa preguntarà números fins que l'usuari escrigui un 0.
+18. Fes un programa que pregunti un número i sumi els números imparells entre 1 i el número introduït.
+19. 
