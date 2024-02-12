@@ -92,9 +92,8 @@ print(frase)
 2. Fes un programa que pregunta un número de telèfon i contesta "El número és vàlid" si té 9 caràcters i "El número no és vàlid" en cas contrari.
 3. Fes un programa que pregunta una llista de paraules a l'usuari indefinidament (en bucle) i quan l'usuari introdueix la paraula "final" mostra la concatenació de totes les paraules (menys final).
 
-
-
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
 
 
 
