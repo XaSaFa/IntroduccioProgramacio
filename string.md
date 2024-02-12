@@ -135,11 +135,71 @@ text = "Gandalf dijo: \"El verdadero coraje no consiste en saber cuándo quitar 
 print(text)
 ```
 
+## Passar una cadena de text a majúscules:
+
+Ho fem amb la funció upper():
+
+```
+a = "Hello, World!"
+print(a.upper())
+```
+
+## Passar una cadena de text a minúscules:
+
+Ho fem amb la funció lower():
+
+```
+a = "Hello, World!"
+print(a.lower())
+```
+
+## Treure espais en blanc:
+
+Els espais en blanc al principi i al final d'una cadena es poden treure amb la funció strip():
+
+```
+a = " Hello, World! "
+print(a.strip())
+```
+
+## Canviar elements d'una cadena:
+
+Podem reemplaçar elements d'una cadena amb la funció replace():
+
+```
+a = "Hello, World!"
+print(a.replace("H", "J"))
+```
+
+## Separar elements d'una cadena:
+
+Podem separar elements d'una cadena amb la funció split(). 
+
+Aquesta funció crea una llista de tots els elements separats per un caràcter.
+
+```
+a = "Hello, World!"
+b = a.split(",")
+print(b)
+```
+
 ## Funcions de cadena de text:
 
 Existeixen moltes funcions que ens ajuden a treballar amb strings, aquí teniu unes quantes:
 
 [https://www.w3schools.com/python/python_strings_methods.asp](https://www.w3schools.com/python/python_strings_methods.asp)
 
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
+**Activitats:**
+
+1. Fes un programa que demani una frase a l'usuari i la mostri en majúscules i després en minúscules.
+2. Fes un programa que demani una frase i canviï totes les lletres 'a' per '*'.
+3. Fes un programa que demani una frase i crei una llista de les paraules, després mostrarà la llista.
+4. Fes un programa que demana una paraula i mostra només la primera i l'última lletra.
+5. Fes un programa que demana una frase i compta quantes vegades apareix una lletra (la lletra la demana també a l'usuari).
+6. Comprova si una paraula introduïda per l'usuari és un palíndrom.
+7. Fes un programa que demani una paraula i transformi la primera i última lletres en majúscules.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
