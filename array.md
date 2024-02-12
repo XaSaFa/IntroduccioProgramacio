@@ -1,6 +1,6 @@
 # Arrays
 
-Els arrays són un tipus de variables que poden guardar més d'un valor.
+Els arrays són un tipus de variables que poden guardar més d'un valor. A Python un array es diu també list (llista).
 
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/d2c6ad20-84a0-4f3f-9ff4-f65f848ba3db)
 
@@ -109,6 +109,53 @@ Només s'elimina la primera aparició de Gandalf de l'array, si hi hagués dos e
 
 ## Afegir elements a un array:
 
-Podem afegir elements al final d'un array amb 
+Podem afegir elements al final d'un array amb la funció append(). 
+
+Per exemple, afegiré elements a un array buit:
+
+```
+comunitat = []
+comunitat.append("Frodo")
+print(comunitat)
+comunitat.append("Sam")
+print(comunitat)
+```
+
+## Ordenar un array:
+
+La funció sort() ordena alfabèticament un Array.
+
+Exemple:
+
+```
+comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+comunitat.sort()
+print(comunitat)
+```
+
+També podem ordenar una llista al revés:
+
+```
+comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+comunitat.sort(reverse=True)
+print(comunitat)
+```
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitats:**
+
+- Tenim la llista següent: comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"] fes un programa que mostri:
+
+1. El primer element.
+2. L'últim element.
+3. L'element del mig.
+4. L'element que alfabèticament va primer.
+5. L'element que alfabèticament va darrer.
+6. Elimina "Aragorn" de la llista y mostra l'element que va alfabèticament primer.
+7. Afegeix "Arwen" a la llista y mostra la llista ordenada alfabèticament.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
 
 
