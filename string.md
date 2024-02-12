@@ -94,6 +94,52 @@ print(frase)
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
+## Tallar strings:
+
+Un array es pot retallar entre dues posicions, per exemple si tenim la paraula "desesperança", la podem retallar així:
+
+```
+paraula = "desesperança"
+print (paraula[3:])
+```
+
+Això talla la paraula des de la lletra 3 fins el final, també podem aconseguir el mateix amb:
+
+```
+paraula = "desesperança"
+print (paraula[3:12])
+```
+
+O amb:
+
+```
+paraula = "desesperança"
+print (paraula[3:len(paraula)])
+```
+
+## Escapar caràcters:
+
+Si volem que un string contingui caràcters especials com les cometes ", les hem d'escapar, és a dir, indicar que són un caràcter.
+
+Per exemple, això provocarà un error:
+
+```
+text = "Gandalf dijo: "El verdadero coraje no consiste en saber cuándo quitar una vida, sino cuándo perdonarla."
+print(text)
+```
+
+Per arreglar-lo escapem les cometes dins del text així:
+
+```
+text = "Gandalf dijo: \"El verdadero coraje no consiste en saber cuándo quitar una vida, sino cuándo perdonarla.\""
+print(text)
+```
+
+## Funcions de cadena de text:
+
+Existeixen moltes funcions que ens ajuden a treballar amb strings, aquí teniu unes quantes:
+
+[https://www.w3schools.com/python/python_strings_methods.asp](https://www.w3schools.com/python/python_strings_methods.asp)
 
 
 
