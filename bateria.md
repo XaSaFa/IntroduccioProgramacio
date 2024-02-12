@@ -24,9 +24,16 @@
 14. Modifica el programa anterior per que sigui l'usuari si vol sumar els números parells o els senars.
 15. Fes un programa que imprimeixi per pantalla els números [primers](https://ca.wikipedia.org/wiki/Nombre_primer).
 
-## Bateria 4 - for
+## Bateria 4 
 
 16. Fes un programa que pregunta un número i et retorna tots els números que són divisors del número (els que la seva divisió no té residu).
 17. Fes un programa que pregunti números a l'usuari i calculi la seva mitjana, el programa preguntarà números fins que l'usuari escrigui un 0.
 18. Fes un programa que pregunti un número i sumi els números imparells entre 1 i el número introduït.
-19. 
+
+## Bateria 5 - Llistes (arrays)
+
+19. Fes un programa que pregunta valors de números sencers a l'usuari i els guarda en una llista fins que l'usuari introdueix la paraula final, i després torna la suma de tots els números introduïts.
+20. Fes un programa com l'anterior que mostra el valor màxim i mínim de la llista.
+21. Fes un programa que pregunta valors de números sencers a l'usuari i els guarda en una llista fins que l'usuari introdueix la paraula final, els números parells els guarda en una llista i els senars en una altra llista. Per últim mostra les dues llistes a l'usuari.
+22. Fes un programa que guarda paraules introduïdes per l'usuari en un array i pregunta una paraula a l'usuari, el programa diu quantes vegades estava la paraula a la llista i l'elimina de la llista, per últim mostra la llista actualitzada.
+  
