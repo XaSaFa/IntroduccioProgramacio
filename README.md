@@ -11,6 +11,7 @@
 - [Variables](variables.md)
   - [Canvi de tipus de variables (casting)](https://www.w3schools.com/python/python_casting.asp)
   - [Strings](string.md)
+  - [Arrays - Llistes](array.md)
 - [Constants](constants.md)
 - Operadors:
   - [matemàtics](operacions.md)
