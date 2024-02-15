@@ -155,6 +155,22 @@ print(comunitat)
 6. Elimina "Aragorn" de la llista y mostra l'element que va alfabèticament primer.
 7. Afegeix "Arwen" a la llista y mostra la llista ordenada alfabèticament.
 
+**Solució:**
+
+```
+comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","Sam","Boromir"]
+print(comunitat[0])
+print(comunitat[len(comunitat)-1])
+print(comunitat[int(len(comunitat) / 2)])
+comunitat.sort()
+print(comunitat[0])
+print(comunitat[-1])
+comunitat.remove("Aragorn")
+print(comunitat[0])
+comunitat.append("Arwen")
+comunitat.sort()
+print(comunitat)
+```
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 
