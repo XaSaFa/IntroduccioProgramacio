@@ -82,3 +82,9 @@ La divisió de 10 / 2.5 és: 4
 ```
 
 Un cop finalitza l'operació torna a mostrar el menú principal.
+
+## Extra
+
+Fes que la calculadora mostri colors de text diferents per al menú i les opcions escollides.
+
+[Exemple colors text](https://www.geeksforgeeks.org/print-colors-python-terminal/)
