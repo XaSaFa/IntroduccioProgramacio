@@ -1,7 +1,5 @@
 # Calculadora
 
-![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/fac8a757-fbd5-42f8-a8c3-a07967dc44d0)
-
 <img src="https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/fac8a757-fbd5-42f8-a8c3-a07967dc44d0" width=500px>
 
 Anem a fer una calculadora utilitzant python, la calculadora es dirà **pycalc**, així que el codi el guardarem a un fitxer anomenat **pycalc.py**.
