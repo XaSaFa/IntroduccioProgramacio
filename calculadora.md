@@ -69,7 +69,7 @@ La multiplicació de 11 * 11 és: 121
 
 Un cop finalitza l'operació torna a mostrar el menú principal.
 
-## 3. Dividir:
+## 4. Dividir:
 
 Si l'usuari introdueix un2 llavors el programa pregunta 2 números a l'usuari i mostra la seva divisió.
 
