@@ -6,7 +6,7 @@ Anem a fer una calculadora utilitzant python, la calculadora es dirà **pycalc**
 
 ## Què farà la calculadora?
 
-La calculadora serà un bucle infinit que mostra un menú amb el següent menú:
+La calculadora serà un bucle infinit que mostra el següent menú:
 
 ## MENÚ PRINCIPAL:
 
