@@ -24,6 +24,8 @@
 - Bucles:
   - [while](while.md)
   - [for](for.md)
+- Números aleatoris:
+  - [Generar un número aleatori](aleatori.md)
 
 
 ## Activitats:
