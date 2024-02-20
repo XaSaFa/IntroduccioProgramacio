@@ -26,6 +26,7 @@
   - [for](for.md)
 - Números aleatoris:
   - [Generar un número aleatori](aleatori.md)
+- [Funcions](funcions.md)
 
 
 ## Activitats:
