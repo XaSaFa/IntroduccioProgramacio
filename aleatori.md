@@ -25,13 +25,16 @@ print(random.randint(1, 10))
 5. Crea una funció anomenada daus_x que pregunti les cares del dau i quants daus ha de llençar i faci la tirada dels daus.
 
 6. Guarda les funcions a un fitxer anomenat daus.py
-   Crea un fitxer anomenat joc.py, aquest fitxer mostrarà un menú amb les següents opcions:
+   Crea un fitxer anomenat joc.py, aquest fitxer importarà el fitxer on estan les funcions de llençar daus i les cridarà per executar-se.
+
+   Aquest fitxer mostrarà un menú amb les següents opcions:
+   
   - Llençar un dau de 6 cares.
   - Llençar més d'un dau de 6 cares.
   - Llençar un dau de cares definides per usuari.
   - Llençar més d'un dau de cares definides per usuari.
   - Sortir.
-Aquest fitxer importarà el fitxer on estan les funcions de llençar daus i les cridarà per executar-se.
+
 
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
