@@ -41,3 +41,9 @@
 
 - [Web per dibuixar online - Pixilart](https://www.pixilart.com/)
 - Per buscar imatges de naus per inspiració (sprite spaceship).
+
+## Portfolio
+
+- [Github portfolio](https://pages.github.com/)
+- [Github Desktop](https://github.com/XaSaFa/MP08/blob/main/webPersonalGithub.md)
+- [Enunciat portfolio](https://github.com/XaSaFa/MP08/blob/main/portfolio.md)
