@@ -49,7 +49,7 @@ def daus_x():
         print(random.randint(1, cares))
 ```
 
-7. Guarda les funcions a un fitxer anomenat daus.py
+6. Guarda les funcions a un fitxer anomenat daus.py
    Crea un fitxer anomenat joc.py, aquest fitxer importarà el fitxer on estan les funcions de llençar daus i les cridarà per executar-se.
 
    Aquest fitxer mostrarà un menú amb les següents opcions:
