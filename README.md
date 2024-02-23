@@ -39,8 +39,7 @@
 
 ## Arcade naus
 
-- [Web per dibuixar online - Pixilart](https://www.pixilart.com/)
-- Per buscar imatges de naus per inspiració (sprite spaceship).
+[Arcade naus](arcade/readme.md)
 
 ## Portfolio
 
