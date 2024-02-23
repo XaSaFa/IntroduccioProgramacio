@@ -8,3 +8,6 @@
 3. Pantalla presentació amb nom del joc i del developer (320x200 pixels).
 4. Pantalla de fons (320x200 pixels).
 
+# Exemple:
+
+![nau](nau.png)
