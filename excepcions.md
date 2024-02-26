@@ -29,11 +29,11 @@ Quan tenim un codi que pot provocar un error el col·loquem dins d'un bloc try.
 
 Per gestionar l'error col·loquem codi dins del bloc except, aquest codi s'executarà quan s'hagi produït un error dins del codi de try.
 
+<img src="https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/eae38680-0c60-4c84-91a5-cc840330fe8a" width="500px">
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 **Activitats:**
-
-<img src="https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/eae38680-0c60-4c84-91a5-cc840330fe8a" width="500px">
 
 1. Pregunta a l'usuari dos nombres i divideix-los. Utilitza un bloc try i except per evitar l'error de divisió per zero.
 2. Demana a l'usuari que introdueixi un número, i intenta convertir aquesta entrada en un enter. Utilitza try i except per capturar qualsevol error de conversió.
