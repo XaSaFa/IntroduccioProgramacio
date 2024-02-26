@@ -33,6 +33,8 @@ Per gestionar l'error col·loquem codi dins del bloc except, aquest codi s'execu
 
 **Activitats:**
 
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/0fe52a58-4487-40b9-829a-db5b32d9ace8)
+
 1. Pregunta a l'usuari dos nombres i divideix-los. Utilitza un bloc try i except per evitar l'error de divisió per zero.
 2. Demana a l'usuari que introdueixi un número, i intenta convertir aquesta entrada en un enter. Utilitza try i except per capturar qualsevol error de conversió.
 3. Pregunta a l'usuari dos valors i intenta sumar-los. Utilitza try i except per capturar errors quan els valors no són números.
