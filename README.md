@@ -27,6 +27,7 @@
 - Números aleatoris:
   - [Generar un número aleatori](aleatori.md)
 - [Funcions](funcions.md)
+- [Control d'excepcions - try except](excepcions.md)
 
 
 ## Activitats:
