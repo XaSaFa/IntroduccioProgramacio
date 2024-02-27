@@ -36,6 +36,7 @@
 
 - [Bateria de problemes](bateria.md)
 - [Calculadora](calculadora.md)
+- [Asteriscs](asteriscs.md)
 
 
 ## Arcade naus
