@@ -15,6 +15,30 @@ Així simulem un joc en el que un asterisc es mou en una pantalla d'un caràcter
 
 El joc no acaba, és un bucle continu.
 
+```
+posicio_asterisc = 0
+AMPLADA = 20
+while True:
+    #genero cadena de text amb l'asterisc a la seva posició:
+    cadena_asterisc = ""
+    for i in range(AMPLADA):
+        if posicio_asterisc == i:
+            cadena_asterisc += "*"
+        else:
+            cadena_asterisc += " "
+    #imprimerixo l'asterisc:
+    print(cadena_asterisc)
+
+    #demano el moviment al user:
+    moviment = input("")
+
+    #aplico el moviment de l'usuari:
+    if moviment == 'a' and posicio_asterisc > 0:
+            posicio_asterisc -= 1
+    elif moviment == 'd' and posicio_asterisc < AMPLADA:
+            posicio_asterisc += 1
+```
+
 ## 2.- Vides
 
 El programa pregunta al principi quantes vides tenim.
