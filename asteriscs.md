@@ -21,7 +21,7 @@ AMPLADA = 20
 while True:
     #genero cadena de text amb l'asterisc a la seva posició:
     cadena_asterisc = ""
-    for i in range(AMPLADA):
+    for i in range(AMPLADA+1):
         if posicio_asterisc == i:
             cadena_asterisc += "*"
         else:
