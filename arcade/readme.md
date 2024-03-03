@@ -1,3 +1,7 @@
+# Pygame
+
+ - [Presentació](pygame.md)
+
 # Art del joc:
 
 - [Web per dibuixar online - Pixilart](https://www.pixilart.com/)
@@ -7,6 +11,7 @@
 2. Tret de la nau (32x32 pixels fons transparent).
 3. Pantalla presentació amb nom del joc i del developer (320x200 pixels).
 4. Pantalla de fons (320x200 pixels).
+5. Enemic (32x32)
 
 # Exemple:
 
