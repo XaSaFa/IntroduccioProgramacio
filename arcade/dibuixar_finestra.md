@@ -56,6 +56,14 @@ if __name__ == "__main__":
 
 Tot i que definirem un tamany de finestra amb la seva **amplada** i **alçada** també podem fer que la finestra ocupi tota la pantalla amb el mode **FULLSCREEN**, cosa que farà que tots els elements dibuixats de la finestra s'escalin per ocupar tota la superfície de la pantalla de l'ordinador.
 
+### FULLSCREEN
+
+Per dibuixar la finestra a pantalla complerta hem de cridar la funció set_mode així:
+
+```
+screen = pygame.display.set_mode((640, 480), pygame.FULLSCREEN)
+```
+
 ## Assets del projecte
 
 El nostre projecte serà un videojoc, per aquest motiu comptarà amb fitxers d'imatge i so. 
