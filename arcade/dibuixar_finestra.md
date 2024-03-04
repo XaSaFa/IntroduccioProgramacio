@@ -19,7 +19,7 @@ WIDTH = 640
 HIGH = 480
 LOGO_IMAGE = "assets/moon.png"
 CAPTION_TEXT = "My Space Game"
-# create a surface on screen that has the size of 640 x 180
+# create a surface on screen that has the size of 640 x 480
 screen = pygame.display.set_mode((WIDTH, HIGH))
 
 # define a main function
@@ -28,10 +28,10 @@ def main():
     pygame.init()
     # load and set the logo
     logo = pygame.image.load(LOGO_IMAGE)
-    # set the caption of the screen
-    pygame.display.set_caption(CAPTION_TEXT)
     # set the logo of the screen
     pygame.display.set_icon(logo)
+    # set the caption of the screen
+    pygame.display.set_caption(CAPTION_TEXT)    
     # define a variable to control the main loop
     running = True
     # main loop
