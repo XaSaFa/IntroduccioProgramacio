@@ -40,6 +40,11 @@ def main():
         screen.fill((0, 0, 0))
         # draw the screen
         pygame.display.flip()
+    # poll for events
+    # pygame.QUIT event means the user clicked X to close your window
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
 # run the main function only if this module is executed as the main script
 # (if you import this as a module then nothing is executed)
 if __name__ == "__main__":
