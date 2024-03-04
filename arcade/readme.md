@@ -1,6 +1,7 @@
 # Pygame
 
- - [Presentació](pygame.md)
+ - [1.- Presentació](pygame.md)
+ - [2.- Dibuixar una finestra](dibuixar_finestra.md)
 
 # Art del joc:
 
