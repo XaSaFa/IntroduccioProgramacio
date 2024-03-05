@@ -82,3 +82,65 @@ Aquests fitxers els guardarem dins una carpeta anomenada assets al nostre projec
 4. Crea una finestra amb una icona d'un tanc, de títol "War X" on X és el teu cognom, tamany 800x600 i color de fons verd.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+
+# Fullscreen
+
+Si volem que el joc s'executi en pantalla complerta utilitzarem un paràmetre especial quan generem la pantalla de joc.
+
+En comptes de screen = pygame.display.set_mode((WIDTH, HIGH)) escriurem:
+
+```
+screen = pygame.display.set_mode((WIDTH, HIGH), pygame.FULLSCREEN)
+```
+
+D'aquesta manera la pantalla escala al tamany real del monitor.
+
+
+# Mostrar imatge a Pygame
+
+Quan volem mostrar una imatge, com per exemple el fons de pantalla del nostre joc, utilitzem la funció pygame.image.load
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/c3e1f82e-5c6a-476b-bf60-b8975b7f1774)
+
+En aquest exemple mostrem una imatge de fons a una pantalla de 640x480:
+
+```
+BACKGROUND_IMAGE = 'assets/wallpaper.jpg'
+AMPLADA = 640
+ALTURA = 480
+import pygame
+pygame.init()
+#screen = pygame.display.set_mode((640, 480), pygame.FULLSCREEN)
+screen = pygame.display.set_mode((AMPLADA, ALTURA))
+pygame.display.set_caption("Hello, World!")
+background = pygame.image.load(BACKGROUND_IMAGE).convert()
+while True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+        screen.blit(background, (0,0))
+        pygame.display.update()
+```
+
+Els dos valors a la funció BLIT indiquen a quina posició es començarà a dibuixar la imatge, per exemple si fiquem com a valors 320 i 240 obtenim:
+
+```
+screen.blit(background, (320,240))
+```
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/0389a634-c524-43e6-99c5-108df258745b)
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitats:**
+
+Torna a recuperar les finestres que has fet anteriorment però carrega una imatge de fons adequada.
+
+1. Crea una finestra amb una icona d'un animal, de títol "Zoo X" on X és el teu cognom, tamany 320x200 i color de fons groc.
+2. Crea una finestra amb una icona d'un peix, de títol "Ocean X" on X és el teu cognom, tamany 640x480 i color de fons blau.
+3. Crea una finestra amb una icona d'un planeta, de títol "Space X" on X és el teu cognom, tamany 1280x720 i color de fons gris.
+4. Crea una finestra amb una icona d'un tanc, de títol "War X" on X és el teu cognom, tamany 800x600 i color de fons verd.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
