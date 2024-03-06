@@ -13,7 +13,7 @@ Una finestra de joc té certs components que s'han de definir abans de poder dib
 
 ```
 # import the pygame module, so you can use it
-import pygame
+import pygame, sys
 
 WIDTH = 640
 HIGH = 480
@@ -44,6 +44,7 @@ def main():
     # pygame.QUIT event means the user clicked X to close your window
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
+            sys.exit()
             running = False
 # run the main function only if this module is executed as the main script
 # (if you import this as a module then nothing is executed)
