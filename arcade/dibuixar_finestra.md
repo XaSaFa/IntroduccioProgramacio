@@ -150,7 +150,7 @@ Torna a recuperar les finestres que has fet anteriorment però **carrega una ima
     - Quantitat de verd al color de fons.
     - Quantitat de blau al color de fons.
     - Si el programa és a pantalla sencera o en mode finestra.
-   Després el programa crea la finestra demanada per l'usuari.
+    - Després el programa crea la finestra demanada per l'usuari.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
