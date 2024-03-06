@@ -135,7 +135,7 @@ screen.blit(background, (320,240))
 
 **Activitats:**
 
-Torna a recuperar les finestres que has fet anteriorment però carrega una imatge de fons adequada.
+Torna a recuperar les finestres que has fet anteriorment però **carrega una imatge de fons adequada**.
 
 1. Crea una finestra amb una icona d'un animal, de títol "Zoo X" on X és el teu cognom, tamany 320x200 i color de fons groc.
 2. Crea una finestra amb una icona d'un peix, de títol "Ocean X" on X és el teu cognom, tamany 640x480 i color de fons blau.
