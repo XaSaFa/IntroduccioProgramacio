@@ -142,6 +142,15 @@ Torna a recuperar les finestres que has fet anteriorment però **carrega una ima
 2. Crea una finestra amb una icona d'un peix, de títol "Ocean X" on X és el teu cognom, tamany 640x480 i color de fons blau.
 3. Crea una finestra amb una icona d'un planeta, de títol "Space X" on X és el teu cognom, tamany 1280x720 i color de fons gris.
 4. Crea una finestra amb una icona d'un tanc, de títol "War X" on X és el teu cognom, tamany 800x600 i color de fons verd.
+5. Crea un programa que pregunta a l'usuari:
+    - Títol de finestra.
+    - Amplada de finestra.
+    - Alçada de finestra.
+    - Quantitat de vermell al color de fons.
+    - Quantitat de verd al color de fons.
+    - Quantitat de blau al color de fons.
+    - Si el programa és a pantalla sencera o en mode finestra.
+   Després el programa crea la finestra demanada per l'usuari.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
