@@ -151,6 +151,7 @@ Torna a recuperar les finestres que has fet anteriorment però **carrega una ima
     - Quantitat de blau al color de fons.
     - Si el programa és a pantalla sencera o en mode finestra.
     - Després el programa crea la finestra demanada per l'usuari.
+EXTRA: Que el programa et deixi escollir entre unes quantes imatges i mostri la imatge que escolli l'usuari.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
