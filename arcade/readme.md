@@ -1,7 +1,10 @@
 # Pygame
 
- - [1.- Presentació](pygame.md)
- - [2.- Dibuixar una finestra](dibuixar_finestra.md)
+1. [Presentació](pygame.md)
+2. [Dibuixar una finestra](dibuixar_finestra.md)
+3. [Colors](colors.md)
+4. [Formes](formes.md)
+   - [Activitats formes](activitats_formes.md)
 
 # Art del joc:
 
