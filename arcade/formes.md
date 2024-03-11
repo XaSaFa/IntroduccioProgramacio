@@ -2,6 +2,8 @@
 
 A Pygame podem dibuixar formes bàsiques directament amb funcions pròpies de Pygame.
 
+[Aquí tens un vídeo d'exemple per si necessites repassar](https://www.youtube.com/watch?v=_nNVOMkSWaY).
+
 ## Rectangles:
 
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/81cb0f1b-9909-4982-a835-0ccdb8107cb0)
