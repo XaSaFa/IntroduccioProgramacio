@@ -1,5 +1,6 @@
 # Pygame
 
+0. [Recursos](https://pygame.readthedocs.io/)
 1. [Presentació](pygame.md)
 2. [Dibuixar una finestra](dibuixar_finestra.md)
 3. [Colors](color.md)
