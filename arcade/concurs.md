@@ -1,5 +1,7 @@
 # Concurs de creació de cares gracioses
 
+![Uploading image.png…]()
+
 Aquesta activitat és puntuable.
 
 ## Normes:
