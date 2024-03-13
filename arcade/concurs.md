@@ -1,6 +1,6 @@
 # Concurs de creació de cares gracioses
 
-![Uploading image.png…]()
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/9ef1e422-8a93-48e0-8b0b-9edea54ef441)
 
 Aquesta activitat és puntuable.
 
