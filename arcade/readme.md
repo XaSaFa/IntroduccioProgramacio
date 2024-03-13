@@ -5,6 +5,7 @@
 3. [Colors](color.md)
 4. [Formes](formes.md)
    - [Activitats formes](activitats_formes.md)
+   - [Activitat puntuable: Concurs de creació de cares gracioses](concurs.md)
 
 # Art del joc:
 
