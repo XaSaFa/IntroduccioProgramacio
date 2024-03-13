@@ -6,6 +6,8 @@
 4. [Formes](formes.md)
    - [Activitats formes](activitats_formes.md)
    - [Activitat puntuable: Concurs de creació de cares gracioses](concurs.md)
+5. [Formes transparents](transparencia.md)
+6. [Imprimir Text](text.md)
 
 # Art del joc:
 
