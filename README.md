@@ -30,6 +30,11 @@
 - [Control d'excepcions - try except](excepcions.md)
 
 
+## PYGAME
+
+[Pygame](arcade/readme.md)
+
+
 ## Activitats:
 
 1.- Feu un programa que pregunti les dades necessàries a l'usuari i calculi el perímetre i l'àrea d'un triangle.
@@ -37,11 +42,6 @@
 - [Bateria de problemes](bateria.md)
 - [Calculadora](calculadora.md)
 - [Asteriscs](asteriscs.md)
-
-
-## Arcade naus
-
-[Arcade naus](arcade/readme.md)
 
 ## Portfolio
 
