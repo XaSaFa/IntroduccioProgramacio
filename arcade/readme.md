@@ -8,6 +8,8 @@
    - [Activitat puntuable: Concurs de creació de cares gracioses](concurs.md)
 5. [Formes transparents](transparencia.md)
 6. [Imprimir Text](text.md)
+    - [Activitat: Imprimir menú](activitat_menu.md)
+   
 
 # Art del joc:
 
