@@ -6,7 +6,9 @@ Per a fer transparències s'utilitza un color amb format (R,G,B, Alpha) on Alpha
 
 Per exemple 255 és un color opac, 0 és un color completament transparent.
 
-Aquí tenim un exemple d'un programa que crea un rectangle de color negre transparent en mig de la pantalla de pygame.
+Aquí tenim un exemple d'un programa que crea un rectangle de color negre transparent (50 ALPHA) en mig de la pantalla de pygame.
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/146146e9-e096-401c-a791-13059863677d)
 
 ```
 import pygame, sys
