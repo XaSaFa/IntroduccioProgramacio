@@ -47,4 +47,13 @@ while True: # main game loop
     pygame.display.update()
 ```
 
+# Ordre de dibuix:
 
+Si dibuixem alguna cosa darrera d'una forma transparent quedarà afectada pel color com si estigués darrear d'un vidre de color:
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/64de6ae1-811a-44d9-88cf-2c93f65d7fcc)
+
+
+Si dibuixem alguna cosa davant no quedarà afectat pel color de la forma transparent:
+
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/69ab8454-6921-4360-8301-7fc94dfeaf6e)
