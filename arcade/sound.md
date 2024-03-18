@@ -1,5 +1,7 @@
 # So a pygame
 
+![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/526af7c6-5266-4932-ac0d-364f7d47dd55)
+
 Un dels elements fundamentals dels videojocs és el so.
 
 Pygame permet reproduir sons fàcilment amb els mòduls [mixer](https://www.pygame.org/docs/ref/mixer.html) i [mixer.music](https://www.pygame.org/docs/ref/music.html).
