@@ -10,6 +10,7 @@
 5. [Formes transparents](transparencia.md)
 6. [Imprimir Text](text.md)
     - [Activitat: Imprimir menú](activitat_menu.md)
+7. [So](sound.md)
    
 
 # Art del joc:
