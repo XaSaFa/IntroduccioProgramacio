@@ -6,11 +6,16 @@
 3. [Colors](color.md)
 4. [Formes](formes.md)
    - [Activitats formes](activitats_formes.md)
-   - [Activitat puntuable: Concurs de creació de cares gracioses](concurs.md)
+   
 5. [Formes transparents](transparencia.md)
 6. [Imprimir Text](text.md)
     - [Activitat: Imprimir menú](activitat_menu.md)
 7. [So](sound.md)
+
+## Activitats puntuables:
+
+- [Activitat puntuable 1: Concurs de creació de cares gracioses](concurs.md)
+- [Activitat puntuable 2: Funció menú i funció crèdits](activitat2.md)
 
 # Exemple menu inici:
 
