@@ -11,6 +11,8 @@
 6. [Imprimir Text](text.md)
     - [Activitat: Imprimir menú](activitat_menu.md)
 7. [So](sound.md)
+8. [Frames per second](fps.md)
+9. [Moviment de la nau](moure_nau.md)
 
 ## Activitats puntuables:
 
