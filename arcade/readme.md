@@ -13,8 +13,8 @@
 7. [So](sound.md)
 8. [Frames per second](fps.md)
 9. [Moviment de la nau](moure_nau.md)
-10. [Detecció de col·lisions]()
-11. [Bales]()
+10. [Detecció de col·lisions](deteccio_colisions.md)
+11. [Bales](bales.md)
 
 ## Activitats puntuables:
 
