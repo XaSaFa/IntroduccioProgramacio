@@ -104,6 +104,7 @@ while True:
 # Exemple:
 
 ![nau](nau.png)<br>
+![nau2](nau2.png)<br>
 ![tret](pixil-frame-0.png)<br>
 ![tret](fons-pixilart.png)<br>
 
