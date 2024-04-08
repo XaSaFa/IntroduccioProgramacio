@@ -41,4 +41,3 @@ Heu d'adaptar el joc de naus de l'exemple de bales amb les següents normes:
 
 - Quan una nau dispara sonarà un so del projectil.
 - Quan una nau esclata sonarà un so d'explosió.
-  -
