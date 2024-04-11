@@ -15,6 +15,7 @@
 9. [Moviment de la nau](moure_nau.md)
 10. [Detecció de col·lisions](deteccio_colisions.md)
 11. [Bales](bales.md)
+12. [Vides](vides.md)
 
 ## Activitats puntuables:
 
