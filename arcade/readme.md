@@ -20,8 +20,8 @@
 ## Activitats puntuables:
 
 - [Activitat puntuable 1: Concurs de creació de cares gracioses](concurs.md)
-- [Activitat puntuable 2: Funció menú i funció crèdits](activitat2.md)
-- [Activitat puntuable 3: Joc 1 versus 1](activitat3.md)
+- [Activitat puntuable 2: Joc 1 versus 1](activitat3.md)
+- [Activitat puntuable 3: Clon de Flappy Bird](activitat4.md)
 
 # Exemple menu inici:
 
