@@ -15,5 +15,13 @@ Consisteix en fer un clon del videojoc Flappy Bird. El joc haurà de tenir:
   - Pantalla de presentació.
   - Millor puntuació de la sessió.
   - Comença el joc amb la tecla espai.
+
+## Grups:
+
+1. Oriol i Nil.
+2. Óscar i Sebas.
+3. Eric i Adrià.
+
+La resta individual.
    
 
