@@ -1,5 +1,7 @@
 # Activitat Flappy Bird:
 
+**SMX-A**
+
 Activitat per parelles o individual.
 Consisteix en fer un clon del videojoc Flappy Bird. El joc haurà de tenir:
 
