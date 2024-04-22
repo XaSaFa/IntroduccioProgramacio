@@ -29,3 +29,4 @@ Activitat per parelles o individual. Consisteix en fer un clon del videojoc Tetr
 4. Edgar i Javi.
 5. Raul i Leo.
 6. Unai i Jan.
+7. Iker.
