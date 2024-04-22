@@ -20,3 +20,12 @@ Activitat per parelles o individual. Consisteix en fer un clon del videojoc Tetr
 7. Les peces es poden girar en sentit horari presionant un botó.
 8. Es veu la següent peça que caurà.
 9. El joc és infinit.
+
+# Grups:
+
+1. Francesc i Zulema.
+2. Jordi i Aleix.
+3. Marc i David.
+4. Edgar i Javi.
+5. Raul i Leo.
+6. Unai i Jan.
