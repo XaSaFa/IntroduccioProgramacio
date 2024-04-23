@@ -16,6 +16,7 @@
 10. [Detecció de col·lisions](deteccio_colisions.md)
 11. [Bales](bales.md)
 12. [Vides](vides.md)
+13. [Matrius](matriu.md)
 
 ## Activitats puntuables:
 
