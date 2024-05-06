@@ -30,3 +30,7 @@ Activitat per parelles o individual. Consisteix en fer un clon del videojoc Tetr
 5. Raul i Leo.
 6. Unai i Jan.
 7. Iker.
+
+# Codi exemple Tetris:
+
+- [Codi](https://github.com/XaSaFa/tetris/)
