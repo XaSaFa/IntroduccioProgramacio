@@ -10,7 +10,7 @@ Consisteix en fer un clon del videojoc Flappy Bird. El joc haurà de tenir:
 3. Música i sons Creative Commons.
 4. Pausa funcional.
 5. Resolució de pantalla: 800x600.
-6. Tamany del personatge: 32x32.
+6. Tamany del personatge: 32x32 o més gran si fa falta.
 7. El joc és infinit.
 8. Guarda i ensenya la millor puntuació de la sessió.
 9. El joc mostra:
