@@ -25,6 +25,9 @@ Consisteix en fer un clon del videojoc Flappy Bird. El joc haurà de tenir:
 3. Eric i Adrià.
 4. Arno i Kristopher.
 5. Noh i Ilyas.
+6. Daniel A. i Mohammed.
+7. Ayoub.
+8. Biel.
 
 La resta individual.
    
