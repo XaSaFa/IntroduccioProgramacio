@@ -11,7 +11,8 @@ Per aquest motiu diem que els ordinadors entenen el llenguatge binari. En concre
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/3d325183-5bb4-4d36-9dfe-9f28c4ceddd9)
 
 - [Vídeo de com programar el ALTAIR](https://www.youtube.com/watch?v=EV1ki6LiEmg)
-- [Vídeo dels llenguatges de programació](https://www.youtube.com/watch?v=TrzZ7YQyXbs)
+- [Evolució llenguatges de programació - 1](https://www.technolush.com/blog/evolution-of-programming-languages)
+- [Evolució llenguatges de programació - 2](https://tecky.io/zh_Hant/blog/evolution-of-programming-languages/)
 
 ## Llenguatge Assembler
 
