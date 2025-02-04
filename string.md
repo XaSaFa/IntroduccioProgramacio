@@ -35,7 +35,7 @@ frase = "Hola Xavi"
 print(len(frase))
 ```
 
-La funció len em retorna 9, que són els caràcters que té ka frase.
+La funció len em retorna 9, que són els caràcters que té la frase.
 
 ## Comprovar si hi ha una subcadena dins d'una cadena de caràcters
 
